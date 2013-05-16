@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "MoKee/android_kernel_lge_iproj",
+   "target_path": "kernel/lge/iproj",
+   "branch": "jb-mr1_mkt"
+ }
+]
