@@ -12,3 +12,5 @@ TARGET_KERNEL_CONFIG := cyanogenmod_lu6200_defconfig
 TARGET_PREBUILT_KERNEL := device/lge/lu6200/kernel
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/lu6200/bluetooth
+
+TARGET_RECOVERY_FSTAB = device/lge/lu6200/fstab.iprj
